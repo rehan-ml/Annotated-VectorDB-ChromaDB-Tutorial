@@ -45,7 +45,7 @@ materials too surface-level. These notebooks go deeper on the
 
 ## Related
 Also check out my annotated HuggingFace LLM Course notes:  
-👉 [Annotated-HuggingFace-LLM-Course](https://github.com/YOUR_USERNAME/Annotated-HuggingFace-LLM-Course)
+👉 [Annotated-HuggingFace-LLM-Course](https://github.com/rehan-ml/Annotated-HuggingFace-LLM-Course)
 
 ---
 
