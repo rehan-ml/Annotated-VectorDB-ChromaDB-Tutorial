@@ -1,4 +1,4 @@
-# Annotated Vector Database & ChromaDB Course
+# Annotated Vector Database & ChromaDB Tutorial
 
 Personal annotated notes and hands-on implementations from the 
 **IBM RAG for Generative AI Applications Specialization** 
