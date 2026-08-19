@@ -49,6 +49,8 @@ Also check out my annotated HuggingFace LLM Course & LlamaIndex Course:
 
 👉 [Annoted-LlamaIndex-Tutorial](https://github.com/rehan-ml/LlamaIndex-Tutorial)
 
+👉 [Annoted-LangChain-Tutorial](https://github.com/rehan-ml/LangChain-Tutorial)
+
 ---
 
 ## Author
