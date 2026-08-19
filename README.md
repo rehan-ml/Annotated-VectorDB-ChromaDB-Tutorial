@@ -47,9 +47,9 @@ materials too surface-level. These notebooks go deeper on the
 Also check out my annotated HuggingFace LLM Course & LlamaIndex Course:  
 👉 [Annotated-HuggingFace-LLM-Course](https://github.com/rehan-ml/Annotated-HuggingFace-LLM-Course)
 
-👉 [Annoted-LlamaIndex-Tutorial](https://github.com/rehan-ml/LlamaIndex-Tutorial)
+👉 [Annoted-LlamaIndex-Tutorial](https://github.com/rehan-ml/Annotated-LlamaIndex-Tutorial)
 
-👉 [Annoted-LangChain-Tutorial](https://github.com/rehan-ml/LangChain-Tutorial)
+👉 [Annotated-LangChain-Tutorial](https://github.com/rehan-ml/Annotated-LangChain-Tutorial)
 
 ---
 
